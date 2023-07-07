@@ -1,2 +1,2 @@
 # Offline_messenger
-an application where several customers can connect through an account and can send messages to each other
+A server-client application in C using TCP sockets. It enables user registration, login, messaging, and friend management. The server listens for client connections and creates threads for each client. Clients can send commands to the server for various operations.
